@@ -1,6 +1,6 @@
 using System;
 using System.Windows.Forms;
-
+//buttons set up//
 namespace EmployeeDirectoryManager
 {
     public partial class MainForm : Form
