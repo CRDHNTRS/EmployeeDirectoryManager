@@ -1,0 +1,14 @@
+C:\Users\kschu\OneDrive\Desktop\EmployeeDirectoryManager\bin\Debug\net10.0-windows\EmployeeDirectoryManager.exe
+C:\Users\kschu\OneDrive\Desktop\EmployeeDirectoryManager\bin\Debug\net10.0-windows\EmployeeDirectoryManager.deps.json
+C:\Users\kschu\OneDrive\Desktop\EmployeeDirectoryManager\bin\Debug\net10.0-windows\EmployeeDirectoryManager.runtimeconfig.json
+C:\Users\kschu\OneDrive\Desktop\EmployeeDirectoryManager\bin\Debug\net10.0-windows\EmployeeDirectoryManager.dll
+C:\Users\kschu\OneDrive\Desktop\EmployeeDirectoryManager\bin\Debug\net10.0-windows\EmployeeDirectoryManager.pdb
+C:\Users\kschu\OneDrive\Desktop\EmployeeDirectoryManager\obj\Debug\net10.0-windows\EmployeeDirectoryManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kschu\OneDrive\Desktop\EmployeeDirectoryManager\obj\Debug\net10.0-windows\EmployeeDirectoryManager.AssemblyInfoInputs.cache
+C:\Users\kschu\OneDrive\Desktop\EmployeeDirectoryManager\obj\Debug\net10.0-windows\EmployeeDirectoryManager.AssemblyInfo.cs
+C:\Users\kschu\OneDrive\Desktop\EmployeeDirectoryManager\obj\Debug\net10.0-windows\EmployeeDirectoryManager.csproj.CoreCompileInputs.cache
+C:\Users\kschu\OneDrive\Desktop\EmployeeDirectoryManager\obj\Debug\net10.0-windows\EmployeeDirectoryManager.dll
+C:\Users\kschu\OneDrive\Desktop\EmployeeDirectoryManager\obj\Debug\net10.0-windows\refint\EmployeeDirectoryManager.dll
+C:\Users\kschu\OneDrive\Desktop\EmployeeDirectoryManager\obj\Debug\net10.0-windows\EmployeeDirectoryManager.pdb
+C:\Users\kschu\OneDrive\Desktop\EmployeeDirectoryManager\obj\Debug\net10.0-windows\EmployeeDirectoryManager.genruntimeconfig.cache
+C:\Users\kschu\OneDrive\Desktop\EmployeeDirectoryManager\obj\Debug\net10.0-windows\ref\EmployeeDirectoryManager.dll
