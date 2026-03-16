@@ -12,3 +12,4 @@ C:\Users\kschu\OneDrive\Desktop\EmployeeDirectoryManager\obj\Debug\net10.0-windo
 C:\Users\kschu\OneDrive\Desktop\EmployeeDirectoryManager\obj\Debug\net10.0-windows\EmployeeDirectoryManager.pdb
 C:\Users\kschu\OneDrive\Desktop\EmployeeDirectoryManager\obj\Debug\net10.0-windows\EmployeeDirectoryManager.genruntimeconfig.cache
 C:\Users\kschu\OneDrive\Desktop\EmployeeDirectoryManager\obj\Debug\net10.0-windows\ref\EmployeeDirectoryManager.dll
+C:\Users\kschu\OneDrive\Desktop\EmployeeDirectoryManager\obj\Debug\net10.0-windows\EmployeeDirectoryManager.sourcelink.json

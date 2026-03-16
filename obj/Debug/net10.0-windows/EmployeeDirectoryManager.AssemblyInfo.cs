@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EmployeeDirectoryManager")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c40dfa33ae371f89d5f3580594b2ea5b4e1bc627")]
 [assembly: System.Reflection.AssemblyProductAttribute("EmployeeDirectoryManager")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EmployeeDirectoryManager")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
