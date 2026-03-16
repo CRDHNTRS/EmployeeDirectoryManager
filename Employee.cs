@@ -1,6 +1,6 @@
 using System;
 using System.Globalization;
-
+//main setup for table data//
 namespace EmployeeDirectoryManager
 {
     public sealed class Employee
